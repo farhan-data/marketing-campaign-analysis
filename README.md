@@ -41,6 +41,8 @@ The original dataset contains 56,000 customer records and 28 columns. The enrich
 
 Open `Marketing_Campaign_Analysis.pbix` in Power BI Desktop. Use the Country, Education, and Age Band slicers to explore how customer groups compare.
 
+![Marketing Campaign Analysis Dashboard](dashboard.png)
+
 
 ## Recommendations
 
