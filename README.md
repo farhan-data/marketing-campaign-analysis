@@ -24,7 +24,7 @@ The original dataset contains 56,000 customer records and 28 columns. The enrich
 - `marketing_campaign_enriched.csv` — data with added analysis fields
 - `clean_data.py` — creates the enriched data file
 - `load_database.py` — loads data into SQLite
-- `marketing_campaign.db` — SQLite database
+- `marketing_campaign.db` — generated locally by `load_database.py`; not included in the repository
 - `sql/analytics.sql` — analysis queries
 - `Marketing_Campaign_Analysis.pbix` — Power BI dashboard
 
